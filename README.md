@@ -1,3 +1,5 @@
+I'm backend developer
+
 # 💫 About Me:
 I'm currently working on apps with LanggraphJs<br>I'm currently learning Laravel and Langchain
 
