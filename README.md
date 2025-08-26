@@ -21,6 +21,7 @@ I design and build reliable APIs, event‑driven services, and data workflows, w
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/a.habberrih)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a.habberrih)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/habberrih)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:abdul2013ly@gmail.com)
 
 ## 🧰 Tech Stack
 
@@ -80,4 +81,10 @@ I design and build reliable APIs, event‑driven services, and data workflows, w
 
 ---
 
-<!-- You can edit any section above to highlight featured projects, talks, or articles. -->
+## ✨ Closing Quote
+
+> “Programs must be written for people to read, and only incidentally for machines to execute.”
+>
+> — Harold Abelson and Gerald Jay Sussman
+
+📫 Reach me at: [abdul2013ly@gmail.com](mailto:abdul2013ly@gmail.com)
