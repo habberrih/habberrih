@@ -1,5 +1,11 @@
 # 👋 Hi, I'm a Backend Developer
 
+<p align="center">
+  <a href="https://github.com/habberrih">
+    <img src="public/logo.png" alt="Habberrih logo" width="150" height="150" title="Habberrih" loading="lazy" />
+  </a>
+</p>
+
 I design and build reliable APIs, event‑driven services, and data workflows, with a focus on performance, maintainability, and a clean developer experience. A Computer Science Graduate with expertise in AI research, NLP, and backend development, I specialize in building robust APIs, IoT solutions, and conducting research in sentiment analysis of Arabic dialects.
 
 ## Overview
