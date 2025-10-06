@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/habberrih">
-    <img src="public/logo.png" alt="Habberrih logo" width="150" height="150" title="Habberrih" loading="lazy" />
+    <img src="public/logo.png" alt="Habberrih logo" width="200" height="200" title="Habberrih" loading="lazy" />
   </a>
 </p>
 
