@@ -6,11 +6,11 @@
   </a>
 </p>
 
-I design and build reliable APIs, event‑driven services, and data workflows, with a focus on performance, maintainability, and a clean developer experience. A Computer Science Graduate with expertise in AI research, NLP, and backend development, I specialize in building robust APIs, IoT solutions, and conducting research in sentiment analysis of Arabic dialects.
+I design and build reliable APIs, event‑driven services, and data workflows, with a focus on performance, maintainability, and a clean developer experience. A Computer Science Graduate with expertise in AI research, NLP, and backend development, I specialize in building robust APIs, orchestrating AI agents with LangGraph and LangChain, and conducting research in sentiment analysis of Arabic dialects.
 
 ## Overview
 
-- Building applications with LangGraph.js and exploring LangChain
+- Orchestrating AI agent workflows with LangGraph.js and LangChain
 - Practical experience with NestJS, Laravel, FastAPI, and Flask
 - Interested in scalable backends, data pipelines, and developer tooling
 - Open to collaborating on impactful backend projects
@@ -87,10 +87,4 @@ I design and build reliable APIs, event‑driven services, and data workflows, w
 
 ---
 
-## ✨ Closing Quote
-
-> “Programs must be written for people to read, and only incidentally for machines to execute.”
->
-> — Harold Abelson and Gerald Jay Sussman
-
-📫 Reach me at: [abdul2013ly@gmail.com](mailto:abdul2013ly@gmail.com)
+📫 Reach me at: [a.habberreh@gmail.com](mailto:a.habberreh@gmail.com)
