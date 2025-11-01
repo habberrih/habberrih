@@ -17,6 +17,7 @@ I design and build reliable APIs, event‑driven services, and data workflows, w
 
 ## 💻 What I Do
 
+- AI agent orchestration: LangGraph.js, LangChain, multi-agent workflows
 - APIs and microservices: Node.js, NestJS, Laravel, FastAPI, Flask
 - Data processing and ML prototyping: Python, Pandas, scikit‑learn
 - Datastores: Postgres, MySQL/MariaDB, MongoDB, Redis, Prisma ORM
