@@ -88,4 +88,4 @@ I design and build reliable APIs, event‑driven services, and data workflows, w
 
 ---
 
-📫 Reach me at: [a.habberreh@gmail.com](mailto:a.habberreh@gmail.com)
+📫 Check my: [Portfolio](habberrih.ly)
