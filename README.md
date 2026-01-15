@@ -88,4 +88,4 @@ I design and build reliable APIs, event‑driven services, and data workflows, w
 
 ---
 
-📫 Check my: [Portfolio](habberrih.ly)
+📫 Check my: [Portfolio](https://habberrih.ly)
